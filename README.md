@@ -20,4 +20,4 @@ docker exec -it PROJECT_CRUD_PHP_YII composer install
 docker exec -it PROJECT_CRUD_PHP_YII ./yii migrate
 ```
 
-открыть http://127.0.0.1/test
+открыть http://127.0.0.1/review
